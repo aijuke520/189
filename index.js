@@ -50,8 +50,8 @@ const html = `<!DOCTYPE html>
 <div class="mdui-row" style="margin-top: 20px">
   <div class="mdui-divider"></div>
   <div class="mdui-text-center mdui-typo" style="margin-top: 10px">
-  	Powered by <a href="https://github.com/libsgh/189-down" target="_blank">189-down</a> |
-  	 Api by <a href="https://github.com/libsgh/PanIndex" target="_blank">PanIndex</a>
+  	Powered by <a href="/" target="_blank">189-down</a> |
+  	 Api by <a href="/" target="_blank">天翼解析</a>
   </div>
 </div>
 </div>
